@@ -1,0 +1,22 @@
+//texto
+se asume que siempre se revisará la disponibilidad de la habitación antes de proceder con la reserva.
+
+HABITACION
+> atributos:
+    - id_habitacion
+    - num_habitacion
+    - tipo_habitacion
+    - ocupada
+
+RESERVAS
+> create:
+    - rut
+    - num habitacion (fk)
+    - check-in
+    - check-out
++id_reserva
+> update:
+    - num habitación
+    - check-in
+    - check-out
+
