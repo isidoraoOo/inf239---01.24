@@ -7,7 +7,7 @@
 </head>    
 <body>
     <h1> :o </h1>
-    <button onclick="window.location.href='reserva.html'">Reservar</button>
+    <button onclick="window.location.href='busqueda.php'">Reservar</button>
     <br>
     <button onclick="window.location.href='actualizaciones.html'">Actualizar reserva</button>
     <br>
