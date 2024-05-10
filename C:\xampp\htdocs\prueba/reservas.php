@@ -6,7 +6,7 @@
     <title>reserva</title>
 </head>
 <body>
-    <h2>reseva</h2>
+    <h2>reserva</h2>
     <?php
     require 'db_config.php';
     if ($_SERVER["REQUEST_METHOD"] == "POST") {
