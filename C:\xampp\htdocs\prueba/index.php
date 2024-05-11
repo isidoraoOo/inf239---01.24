@@ -12,5 +12,7 @@
     <button onclick="window.location.href='actualizaciones.html'">Actualizar reserva</button>
     <br>
     <button onclick="window.location.href='eliiminar.php'">Eliminar reserva</button>
+    <br>
+    <button onclick="window.location.href='tours.php'">Tours</button>
 </body>
 </html>
