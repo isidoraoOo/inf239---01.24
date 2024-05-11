@@ -1,0 +1,15 @@
+//tours
+/*
+valor único por habitación
+reservar
+cancelar
+tours disponibles:
+- fecha
+- lugar
+- medio de transporte
+- imagen
+los cupos son ilimitados
+SUPOSICIONES
+"el tour tiene precio único por habitación" refiere a que el precio del
+tour depende del tipo de habitación reservada
+*/
