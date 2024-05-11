@@ -33,7 +33,8 @@
         } else {
             echo "No se pudo realizar la reserva.";
         }
-    }    
+    }
+    $conn->close();    
     ?>
 
 </body>
